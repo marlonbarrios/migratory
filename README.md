@@ -1,4 +1,4 @@
-# The Migratory Body
+# Migratory 
 
 The migratory body is a body in transit, displaced or wandering, embodying forced or chosen mobility. The migratory body is a bridge between worlds, memory and otherness in motion.
 
@@ -13,3 +13,6 @@ These bodies in transit become fabricated otherness: seen as strangers, threats,
 But these bodies in transit are above all memory in movement—carriers of languages, affects, and cosmovisions that overflow the idea of a homogeneous nation. They are a bridge between worlds, a space of mestizaje, and the fissure that questions the rigidity of political and cultural borders.
 
 In Pangea, migratory bodies are symbols of interconnection and transit : they remind us that every territory is historical and mutable, that every identity is mobile, and that life is woven in displacements. To migrate is also to re-exist: to invent ways of inhabiting from difference, to reclaim dignity in movement, and to overflow the colonial maps that seek to fix bodies in predefined places.
+
+<a href="https://github.com/marlonbarrios/list_of_applications_UI/blob/mondrian/README.md#list_of_applications_ui" target="_blank">Apps and interfaces of Pangea in Latent Space The Tectonics of Otherness</a>
+
