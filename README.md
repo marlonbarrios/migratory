@@ -1,4 +1,3 @@
-# Migratory 
 
 The migratory body is a body in transit, displaced or wandering, embodying forced or chosen mobility. The migratory body is a bridge between worlds, memory and otherness in motion.
 
